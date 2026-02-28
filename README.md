@@ -1,2 +1,2 @@
 # DeepNN
-DotaTwo.yml=firstlab
+dota_Two.yml=firstlab
